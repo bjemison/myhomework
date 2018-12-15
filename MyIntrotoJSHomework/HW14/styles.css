@@ -1,0 +1,10 @@
+.hero {
+    position: relative;
+    height: 550px;
+    padding: 20px;
+    margin: 0;
+    background: black;
+    background-image: url("./images/earthfromspace.jpg");
+    background-position: fixed;
+    background-size: cover;
+}
